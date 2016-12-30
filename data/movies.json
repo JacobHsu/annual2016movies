@@ -1,0 +1,200 @@
+[
+    {
+        "year": "2016個人評價最高的",
+        "type": "超級英雄片",
+        "name": "美國隊長3：英雄內戰",
+        "title": "Captain America 3: Civil War",
+        "star": "50",
+        "bgImg": "https://images.alphacoders.com/669/thumb-1920-669681.jpg",
+        "list": ["Captain America: Civil War","Deadpool","Doctor Strange","Batman v Superman: Dawn of Justice","X-Men: Apocalypse","Teenage Mutant Ninja Turtles:Out","Suicide Squad"]
+    }, 
+    {
+        "year": "2016個人評價最高的",
+        "type": "愛情片",
+        "name": "你的名字",
+        "title": "Your Name",
+        "star": "50",
+        "bgImg": "https://images7.alphacoders.com/736/thumb-1920-736462.jpg",
+        "list": ["Your Name", "Me Before You"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "動畫片",
+        "name": "動物方城市",
+        "title": "Zootopia",
+        "star": "50",
+        "bgImg": "https://images.alphacoders.com/685/thumb-1920-685151.jpg",
+        "list": ["Zootopia","Your Name","Kung Fu Panda 3","Finding Dory","The Good Dinosaur","Batman: The Killing Joke"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "奇幻片",
+        "name": "與森林共舞",
+        "title": "The Jungle Book",
+        "star": "45",
+        "bgImg": "https://images2.alphacoders.com/676/thumb-1920-676617.jpg",
+        "list": ["Warcraft","Fantastic Beasts and Where to Find Them","The Jungle Book","The Legend of Tarzan","Alice Through the Looking Glass","Miss Peregrine's Home for Peculiar Children"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "科幻片",
+        "name": "星際爭霸戰3: 浩瀚無垠",
+        "title": "Star Trek Beyond",
+        "star": "45",
+        "bgImg": "https://images3.alphacoders.com/729/thumb-1920-729834.jpg",
+        "list": ["Star Trek Beyond","Rogue One: A Star Wars Story","The 5th Wave","Independence Day: Resurgence"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "殭屍片",
+        "name": "屍速列車",
+        "title": "Train to Busan",
+        "star": "45",
+        "bgImg": "http://www.allwallpaper.co/wp-content/uploads/2016/10/train-to-busan-awesome-movies-hd-wallpaper.jpg",
+        "list": ["Train to Busan","Seoul Station","I Am a Hero","Pride and Prejudice and Zombies"]
+    },    
+    {
+        "year": "2016個人評價最高的",
+        "type": "災難片",
+        "name": "怒火地平線",
+        "title": "Deepwater Horizon",
+        "star": "40",
+        "bgImg": "https://images5.alphacoders.com/387/thumb-1920-387760.jpg",
+        "list": ["Deepwater Horizon","The Finest Hours","The Shallows","Shin Godzilla"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "戰爭片",
+        "name": "鋼鐵英雄",
+        "title": "Hacksaw Ridge",
+        "star": "45",
+        "bgImg": "https://images8.alphacoders.com/724/thumb-1920-724296.png",
+        "list": ["Hacksaw Ridge","Eye in the Sky","Warcraft","Rogue One: A Star Wars Story"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "西部片",
+        "name": "神鬼獵人",
+        "title": "The Revenant",
+        "star": "40",
+        "bgImg": "https://images5.alphacoders.com/671/thumb-1920-671544.jpg",
+        "list": ["The Revenant","The Hateful Eight","The Magnificent Seven"]
+    },    
+    {
+        "year": "2016個人評價最高的",
+        "type": "犯罪片",
+        "name": "新世紀福爾摩斯：地獄新娘",
+        "title": "Sherlock: The Abominable Bride",
+        "star": "40",
+        "bgImg": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/566f13d705f8e2f3a32f23f2/1450120812539/1500w/",
+        "list": ["Sherlock: The Abominable Bride","Cold War II","The Nice Guys","The Handmaiden","Room","The Neon Demon","Inferno"]
+    }, 
+    {
+        "year": "2016個人評價最高的",
+        "type": "特務片",
+        "name": "神鬼認證5",
+        "title": "Jason Bourne",
+        "star": "40",
+        "bgImg": "https://images8.alphacoders.com/715/thumb-1920-715602.jpg",
+        "list": ["Jason Bourne"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "武俠片",
+        "name": "師父",
+        "title": "The Final Master",
+        "star": "40",
+        "bgImg": "http://pic1.win4000.com/wallpaper/4/5666a0a1a4e86.jpg",
+        "list": ["The Final Master","Ip Man 3","Hidden Dragon: Sword of Destiny","Call Of Heroes"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "喜劇片",
+        "name": "假會徵信社",
+        "title": "The Nice Guys",
+        "star": "45",
+        "bgImg": "https://images7.alphacoders.com/703/thumb-1920-703033.jpg",
+        "list": ["The Nice Guys","Too Young to Die"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "劇情片",
+        "name": "下女的誘惑",
+        "title": "The Handmaiden",
+        "star": "40",
+        "bgImg": "http://uhd.img.topstarnews.net/wys3/file_attach/2016/05/18/1463549817-31-org.jpg",
+        "list": ["The Handmaiden"," Cold War II","The Big Short","Shin Godzilla","Eye in the Sky","Your Name"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "動作片",
+        "name": "神鬼認證5",
+        "title": "Jason Bourne",
+        "star": "40",
+        "bgImg": "https://images5.alphacoders.com/706/thumb-1920-706925.jpg",
+        "list": ["Jason Bourne","London Has Fallen"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "真人真事改編",
+        "name": "鋼鐵英雄",
+        "title": "Hacksaw Ridge",
+        "star": "45",
+        "bgImg": "https://images3.alphacoders.com/760/thumb-1920-760446.jpg",
+        "list": ["Hacksaw Ridge","Deepwater Horizon","Room","Snowden","Sully","Ip Man 3","The Finest Hours"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "小說改編",
+        "name": "不存在的房間",
+        "title": "Room",
+        "star": "40",
+        "bgImg": "http://ihdwallpapers.com/walls/2015/08/06/room_2015_movie-wide.jpg",
+        "list": ["Room","Fantastic Beasts and Where to Find Them","Inferno","The 5th Wave","Time Raiders"]
+    },         
+    {
+        "year": "2016個人評價最高的",
+        "type": "童書改編",
+        "name": "與森林共舞",
+        "title": "The Jungle Book",
+        "star": "45",
+        "bgImg": "https://images6.alphacoders.com/712/thumb-1920-712995.jpg",
+        "list": ["The Jungle Book","Miss Peregrine's Home for Peculiar Children","Alice Through the Looking Glass"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "漫畫改編",
+        "name": "請叫我英雄",
+        "title": "I Am a Hero",
+        "star": "40",
+        "bgImg": "https://pbs.twimg.com/media/Ckwksy1UgAA4tOS.jpg",
+        "list": ["Suicide Squad","I Am a Hero","Teenage Mutant Ninja Turtles:Out","Batman: The Killing Joke"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "韓國片",
+        "name": "屍速列車",
+        "title": "Train to Busan",
+        "star": "45",
+        "bgImg": "http://www.allwallpaper.co/wp-content/uploads/2016/10/train-to-busan-best-movies-hd-quality.jpg",
+        "list": ["Train to Busan","Seoul Station","The Handmaiden"]
+    },
+    {
+        "year": "2016個人評價最高的",
+        "type": "日本片",
+        "name": "你的名字",
+        "title": "Your Name",
+        "star": "50",
+        "bgImg": "https://images4.alphacoders.com/687/thumb-1920-687986.jpg",
+        "list": ["Your Name","Shin Godzilla","I Am a Hero","Too Young to Die"]
+    },  
+    {
+        "year": "2016個人評價最高的",
+        "type": "最佳電影原聲",
+        "name": "你的名字",
+        "title": "Your Name",
+        "star": "50",
+        "bgImg": "https://images7.alphacoders.com/737/thumb-1920-737400.jpg",
+        "list": ["Your Name","Suicide Squad","Miss Peregrine's Home for Peculiar Children"] 
+    }
+]
