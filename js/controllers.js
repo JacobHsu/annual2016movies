@@ -8,13 +8,13 @@ moviesApp.controller('listCtrl', function($scope, $http) {
 		switch(title) {
 			case "Time Raider":
 			case "The Magnificent Seven":
-				return 'http://www.omdbapi.com/?t=' + title + '&y=2016&tomatoes=true';
+				return 'https://www.omdbapi.com/?t=' + title + '&y=2016&tomatoes=true';
 		        break;
 			case "Sherlock: The Abominable Bride":
-			   	return 'http://www.omdbapi.com/?i=' + 'tt3845232' + '&type=movie&tomatoes=true';
+			   	return 'https://www.omdbapi.com/?i=' + 'tt3845232' + '&type=movie&tomatoes=true';
 		        break;
 		    default:
-		        return 'http://www.omdbapi.com/?t=' + title + '&type=movie&tomatoes=true';
+		        return 'https://www.omdbapi.com/?t=' + title + '&type=movie&tomatoes=true';
 		}
   	}
 
