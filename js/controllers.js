@@ -1,20 +1,20 @@
 'use strict';
 
 var moviesApp = angular.module('moviesApp', []);
-
+var apikey = '4e1e08f0';
 moviesApp.controller('listCtrl', function($scope, $http) {
 
     var checkApi = function(title) {
 		switch(title) {
 			case "Time Raider":
 			case "The Magnificent Seven":
-				return 'https://www.omdbapi.com/?t=' + title + '&y=2016&tomatoes=true';
+				return 'https://www.omdbapi.com/?'+'apikey='+apikey+'&t=' + title + '&y=2016&tomatoes=true';
 		        break;
 			case "Sherlock: The Abominable Bride":
-			   	return 'https://www.omdbapi.com/?i=' + 'tt3845232' + '&type=movie&tomatoes=true';
+			   	return 'https://www.omdbapi.com/??'+'apikey='+apikey+'i=' + 'tt3845232' + '&type=movie&tomatoes=true';
 		        break;
 		    default:
-		        return 'https://www.omdbapi.com/?t=' + title + '&type=movie&tomatoes=true';
+		        return 'https://www.omdbapi.com/?'+'apikey='+apikey+'&t=' + title + '&type=movie&tomatoes=true';
 		}
   	}
 

@@ -1,5 +1,9 @@
 # annual2016movies
 
+ ### Visual Studio Code
+Preview on Web Server  
+Launch on browser (`ctrl+shift+l`)  
+
 * http://www.truemovie.com/tairelease.htm
 * http://movie.douban.com  
 
